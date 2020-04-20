@@ -1,0 +1,2 @@
+String DOMAIN_NAME = 'http://192.168.1.128:8000/';
+String COOKIES_PATH= DOMAIN_NAME+'auth/';
