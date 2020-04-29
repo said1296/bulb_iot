@@ -5,3 +5,4 @@ The app sends level changes every 200ms to a remote server with values from 0 to
 circuit could fetch the level from the server if it has the auth credentials for an existing user.
 
 ![](iot.gif)
+![](iot-backend.gif)
